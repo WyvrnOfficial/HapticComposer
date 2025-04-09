@@ -17,6 +17,6 @@ The haptic effects created with the Haptic Composer will be automatically import
 
 > -> [Get Interhaptics Unity SDK](https://github.com/Interhaptics/Unity_CoreSDK)
 
-> -> [Haptic Composer documentation](https://www.interhaptics.com/doc/haptic-composer/)
+> -> [Haptic Composer documentation]([https://www.interhaptics.com/doc/haptic-composer/](https://doc.wyvrn.com/docs/interhaptics-sdk/haptic-composer/))
 
-> -> [Terms of Service](https://www.interhaptics.com/eula/)
+> -> [Terms of Service](https://www.wyvrn.com/eula/)
